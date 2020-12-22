@@ -1,1 +1,2 @@
-# C-21-bounceOffAlgorithm-
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
